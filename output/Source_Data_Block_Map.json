@@ -1,0 +1,677 @@
+[
+  {
+    "sheet": "Figure1a",
+    "source": "Figure1a_overview.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 13,
+    "columns": [
+      "end_year",
+      "label",
+      "worsening",
+      "worsening_low",
+      "worsening_high",
+      "improving",
+      "improving_low",
+      "improving_high"
+    ]
+  },
+  {
+    "sheet": "Figure1b",
+    "source": "Figure1b_exceedance.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 994,
+    "columns": [
+      "threshold",
+      "value_share_pct"
+    ]
+  },
+  {
+    "sheet": "Figure1b",
+    "source": "Figure1b_minerals.csv",
+    "header_row": 998,
+    "first_column": "A",
+    "data_rows": 7,
+    "columns": [
+      "mineral_group",
+      "share_of_layer_affected_value_pct"
+    ]
+  },
+  {
+    "sheet": "Figure1c",
+    "source": "Figure1c_exceedance.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 979,
+    "columns": [
+      "threshold",
+      "value_share_pct"
+    ]
+  },
+  {
+    "sheet": "Figure1c",
+    "source": "Figure1c_minerals.csv",
+    "header_row": 983,
+    "first_column": "A",
+    "data_rows": 7,
+    "columns": [
+      "mineral_group",
+      "share_of_layer_affected_value_pct"
+    ]
+  },
+  {
+    "sheet": "Figure2a",
+    "source": "Figure2a.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 13,
+    "columns": [
+      "year",
+      "mismatch_pct",
+      "redistribution_pp"
+    ]
+  },
+  {
+    "sheet": "Figure2a",
+    "source": "Figure2a_no_propagation.csv",
+    "header_row": 17,
+    "first_column": "A",
+    "data_rows": 13,
+    "columns": [
+      "year",
+      "mismatch_pct"
+    ]
+  },
+  {
+    "sheet": "Figure2b",
+    "source": "Figure2b.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 75,
+    "columns": [
+      "metal",
+      "stage",
+      "mismatch_pct"
+    ]
+  },
+  {
+    "sheet": "Figure2c",
+    "source": "Figure2c.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 12,
+    "columns": [
+      "iso",
+      "mean_pp",
+      "min_pp",
+      "max_pp"
+    ]
+  },
+  {
+    "sheet": "Figure3a",
+    "source": "fig3a_temporal_three_layer_nodes.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 15,
+    "columns": [
+      "year",
+      "node",
+      "layer",
+      "gross_usd",
+      "net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3a",
+    "source": "fig3a_temporal_importer_exporter_edges.csv",
+    "header_row": 19,
+    "first_column": "A",
+    "data_rows": 9,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3a",
+    "source": "fig3a_temporal_exporter_origin_edges.csv",
+    "header_row": 31,
+    "first_column": "A",
+    "data_rows": 10,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3a",
+    "source": "Figure3_minerals.csv",
+    "header_row": 44,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "metal",
+      "transition_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3a",
+    "source": "Figure3_changes.csv",
+    "header_row": 55,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "events"
+    ]
+  },
+  {
+    "sheet": "Figure3b",
+    "source": "fig3a_temporal_three_layer_nodes.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 18,
+    "columns": [
+      "year",
+      "node",
+      "layer",
+      "gross_usd",
+      "net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3b",
+    "source": "fig3a_temporal_importer_exporter_edges.csv",
+    "header_row": 22,
+    "first_column": "A",
+    "data_rows": 9,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3b",
+    "source": "fig3a_temporal_exporter_origin_edges.csv",
+    "header_row": 34,
+    "first_column": "A",
+    "data_rows": 10,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3b",
+    "source": "Figure3_minerals.csv",
+    "header_row": 47,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "metal",
+      "transition_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3b",
+    "source": "Figure3_changes.csv",
+    "header_row": 58,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "events"
+    ]
+  },
+  {
+    "sheet": "Figure3c",
+    "source": "fig3a_temporal_three_layer_nodes.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 16,
+    "columns": [
+      "year",
+      "node",
+      "layer",
+      "gross_usd",
+      "net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3c",
+    "source": "fig3a_temporal_importer_exporter_edges.csv",
+    "header_row": 20,
+    "first_column": "A",
+    "data_rows": 9,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3c",
+    "source": "fig3a_temporal_exporter_origin_edges.csv",
+    "header_row": 32,
+    "first_column": "A",
+    "data_rows": 10,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3c",
+    "source": "Figure3_minerals.csv",
+    "header_row": 45,
+    "first_column": "A",
+    "data_rows": 4,
+    "columns": [
+      "year",
+      "metal",
+      "transition_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3c",
+    "source": "Figure3_changes.csv",
+    "header_row": 52,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "events"
+    ]
+  },
+  {
+    "sheet": "Figure3d",
+    "source": "fig3a_temporal_three_layer_nodes.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 19,
+    "columns": [
+      "year",
+      "node",
+      "layer",
+      "gross_usd",
+      "net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3d",
+    "source": "fig3a_temporal_importer_exporter_edges.csv",
+    "header_row": 23,
+    "first_column": "A",
+    "data_rows": 9,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3d",
+    "source": "fig3a_temporal_exporter_origin_edges.csv",
+    "header_row": 35,
+    "first_column": "A",
+    "data_rows": 10,
+    "columns": [
+      "year",
+      "source",
+      "target",
+      "net_usd",
+      "abs_net_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3d",
+    "source": "Figure3_minerals.csv",
+    "header_row": 48,
+    "first_column": "A",
+    "data_rows": 7,
+    "columns": [
+      "year",
+      "metal",
+      "transition_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure3d",
+    "source": "Figure3_changes.csv",
+    "header_row": 58,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "events"
+    ]
+  },
+  {
+    "sheet": "Figure4a",
+    "source": "Figure4_displayed_paths.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 32,
+    "columns": [
+      "year",
+      "exporter_iso",
+      "importer_iso",
+      "top_chokepoint",
+      "weighted_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4a",
+    "source": "Figure4_displayed_route_vertices.csv",
+    "header_row": 36,
+    "first_column": "A",
+    "data_rows": 3189,
+    "columns": [
+      "year",
+      "exporter",
+      "importer",
+      "index",
+      "longitude",
+      "latitude"
+    ]
+  },
+  {
+    "sheet": "Figure4a",
+    "source": "Figure4_mineral_composition.csv",
+    "header_row": 3228,
+    "first_column": "A",
+    "data_rows": 22,
+    "columns": [
+      "year",
+      "metal",
+      "endpoint_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4a",
+    "source": "Figure4_annual_summary.csv",
+    "header_row": 3253,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "event_count",
+      "dominant_chokepoint"
+    ]
+  },
+  {
+    "sheet": "Figure4a",
+    "source": "Figure4_chokepoints.csv",
+    "header_row": 3257,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "top_chokepoint",
+      "transfer_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4b",
+    "source": "Figure4_displayed_paths.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 32,
+    "columns": [
+      "year",
+      "exporter_iso",
+      "importer_iso",
+      "top_chokepoint",
+      "weighted_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4b",
+    "source": "Figure4_displayed_route_vertices.csv",
+    "header_row": 36,
+    "first_column": "A",
+    "data_rows": 3484,
+    "columns": [
+      "year",
+      "exporter",
+      "importer",
+      "index",
+      "longitude",
+      "latitude"
+    ]
+  },
+  {
+    "sheet": "Figure4b",
+    "source": "Figure4_mineral_composition.csv",
+    "header_row": 3523,
+    "first_column": "A",
+    "data_rows": 22,
+    "columns": [
+      "year",
+      "metal",
+      "endpoint_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4b",
+    "source": "Figure4_annual_summary.csv",
+    "header_row": 3548,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "event_count",
+      "dominant_chokepoint"
+    ]
+  },
+  {
+    "sheet": "Figure4b",
+    "source": "Figure4_chokepoints.csv",
+    "header_row": 3552,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "top_chokepoint",
+      "transfer_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4c",
+    "source": "Figure4_displayed_paths.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 32,
+    "columns": [
+      "year",
+      "exporter_iso",
+      "importer_iso",
+      "top_chokepoint",
+      "weighted_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4c",
+    "source": "Figure4_displayed_route_vertices.csv",
+    "header_row": 36,
+    "first_column": "A",
+    "data_rows": 3373,
+    "columns": [
+      "year",
+      "exporter",
+      "importer",
+      "index",
+      "longitude",
+      "latitude"
+    ]
+  },
+  {
+    "sheet": "Figure4c",
+    "source": "Figure4_mineral_composition.csv",
+    "header_row": 3412,
+    "first_column": "A",
+    "data_rows": 22,
+    "columns": [
+      "year",
+      "metal",
+      "endpoint_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4c",
+    "source": "Figure4_annual_summary.csv",
+    "header_row": 3437,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "event_count",
+      "dominant_chokepoint"
+    ]
+  },
+  {
+    "sheet": "Figure4c",
+    "source": "Figure4_chokepoints.csv",
+    "header_row": 3441,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "top_chokepoint",
+      "transfer_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4d",
+    "source": "Figure4_displayed_paths.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 32,
+    "columns": [
+      "year",
+      "exporter_iso",
+      "importer_iso",
+      "top_chokepoint",
+      "weighted_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4d",
+    "source": "Figure4_displayed_route_vertices.csv",
+    "header_row": 36,
+    "first_column": "A",
+    "data_rows": 2798,
+    "columns": [
+      "year",
+      "exporter",
+      "importer",
+      "index",
+      "longitude",
+      "latitude"
+    ]
+  },
+  {
+    "sheet": "Figure4d",
+    "source": "Figure4_mineral_composition.csv",
+    "header_row": 2837,
+    "first_column": "A",
+    "data_rows": 20,
+    "columns": [
+      "year",
+      "metal",
+      "endpoint_value_usd"
+    ]
+  },
+  {
+    "sheet": "Figure4d",
+    "source": "Figure4_annual_summary.csv",
+    "header_row": 2860,
+    "first_column": "A",
+    "data_rows": 1,
+    "columns": [
+      "year",
+      "event_count",
+      "dominant_chokepoint"
+    ]
+  },
+  {
+    "sheet": "Figure4d",
+    "source": "Figure4_chokepoints.csv",
+    "header_row": 2864,
+    "first_column": "A",
+    "data_rows": 8,
+    "columns": [
+      "year",
+      "top_chokepoint",
+      "transfer_shift_usd"
+    ]
+  },
+  {
+    "sheet": "Figure5a",
+    "source": "Figure5a.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 26,
+    "columns": [
+      "base_year",
+      "scenario",
+      "risk_transfer_value_share",
+      "material_joint_value_share"
+    ]
+  },
+  {
+    "sheet": "Figure5a",
+    "source": "Figure5a_conditional_draws.csv",
+    "header_row": 30,
+    "first_column": "A",
+    "data_rows": 260,
+    "columns": [
+      "base_year",
+      "scenario",
+      "rho",
+      "draw",
+      "risk_transfer_value_share",
+      "material_joint_value_share"
+    ]
+  },
+  {
+    "sheet": "Figure5b",
+    "source": "Figure5b.csv",
+    "header_row": 1,
+    "first_column": "A",
+    "data_rows": 5602,
+    "columns": [
+      "base_year",
+      "importer_iso",
+      "metal",
+      "stage",
+      "scenario",
+      "delta_direct_hhi",
+      "delta_origin_hhi",
+      "delta_top_chokepoint_share",
+      "equal_year_weight"
+    ]
+  }
+]

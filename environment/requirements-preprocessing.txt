@@ -1,0 +1,6 @@
+-r requirements.txt
+pdfplumber==0.11.9
+openpyxl==3.1.5
+pdfminer.six==20251230
+networkx==3.5
+geojson==3.2.0

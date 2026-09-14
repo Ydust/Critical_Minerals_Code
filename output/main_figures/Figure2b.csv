@@ -1,0 +1,76 @@
+metal,stage,mismatch_pct
+Aluminium,metal,74.54871493438144
+Aluminium,ore,8.031826734375414
+Antimony,metal,60.81789074150939
+Antimony,ore,13.170786774806958
+Boron,ore,5.628915446682335
+Chromium,alloy,56.74290121207702
+Chromium,ore,4.360312526413168
+Cobalt,compound,32.93515675662385
+Cobalt,metal,49.39320434048072
+Copper,metal,57.72486494928943
+Copper,ore,5.470168183052986
+Graphite,material,56.902449616730586
+Graphite,mineral,10.660834908520096
+Lead,metal,68.0124708262771
+Lead,ore,7.478672665349282
+Lithium,compound,41.62990826372895
+Lithium,metal,78.68229547504686
+Lithium,ore,20.668652604467685
+Magnesium,metal,35.93867487668733
+Manganese,compound,70.70524475734871
+Manganese,metal,73.50062915824343
+Manganese,ore,5.686143510110811
+Molybdenum,metal,53.66614567219841
+Molybdenum,ore,29.99867573507333
+Nickel,compound,77.16268278866696
+Nickel,material,32.406820935154215
+Nickel,metal,82.69856913518419
+Nickel,ore,6.065854290457493
+Niobium/Tantalum,ore,24.943721486649093
+PGM,metal,65.10431120536316
+RareEarth,compound,47.687949279705926
+RareEarth,magnet,57.35427615272849
+RareEarth,metal,67.99336479257252
+Silver,metal,61.38327816984078
+Tin,metal,57.19178406796583
+Tin,ore,17.93864809814217
+Titanium,ore,8.155424225517613
+Tungsten,metal,19.120509949260533
+Tungsten,ore,16.278533389143924
+Vanadium,alloy,78.12925588648245
+Vanadium,compound,42.12119072899322
+Zinc,metal,64.47576920662151
+Zinc,ore,8.377076291912498
+Zirconium,ore,11.169645996470928
+Aluminium,All stages,73.19770141161463
+Antimony,All stages,35.31187104008513
+Boron,All stages,5.628915446682335
+Chromium,All stages,40.53059844508349
+Cobalt,All stages,45.09902116742284
+Copper,All stages,30.85256836339648
+Graphite,All stages,47.81799214979542
+Lead,All stages,33.22576546266377
+Lithium,All stages,32.55207332434528
+Magnesium,All stages,35.93867487668733
+Manganese,All stages,18.55540757035671
+Molybdenum,All stages,30.716165873999348
+Nickel,All stages,53.64923335090379
+Niobium/Tantalum,All stages,24.943721486649093
+PGM,All stages,65.10431120536316
+RareEarth,All stages,56.75567699723577
+Silver,All stages,61.38327816984078
+Tin,All stages,52.63662560159287
+Titanium,All stages,8.155424225517613
+Tungsten,All stages,16.763730166600872
+Vanadium,All stages,59.23459209791703
+Zinc,All stages,32.992584866943325
+Zirconium,All stages,11.169645996470928
+All minerals,alloy,57.84124155300695
+All minerals,compound,44.73723276540344
+All minerals,magnet,57.35427615272849
+All minerals,material,35.95886128954366
+All minerals,metal,64.17602223468333
+All minerals,mineral,10.660834908520096
+All minerals,ore,7.187681033805053
+All minerals,All stages,42.37229573978997

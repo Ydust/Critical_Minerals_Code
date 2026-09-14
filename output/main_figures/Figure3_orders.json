@@ -1,0 +1,27 @@
+{
+  "inferred mine origin": [
+    "RUS",
+    "ZAF",
+    "IDN",
+    "AUS",
+    "CHN",
+    "Other"
+  ],
+  "direct exporter": [
+    "RUS",
+    "ZAF",
+    "CAN",
+    "FIN",
+    "GBR",
+    "AUS",
+    "Other"
+  ],
+  "importer": [
+    "USA",
+    "DEU",
+    "IRL",
+    "NLD",
+    "BEL",
+    "Other"
+  ]
+}

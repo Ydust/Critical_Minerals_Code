@@ -1,0 +1,14 @@
+{
+  "manuscript_reference_date": "2026-09-11",
+  "associated_manuscript": "Direct-supply diversification can coincide with mine-origin or maritime reconcentration",
+  "reference_hashes": {
+    "research_article_main_text_en_polished.md": "8bbc6729fc6809b7d892b9f4c366ac89b2d734515d8603bd6cdc24b487cd97a6",
+    "source_data/Source_Data_Main_Figures.xlsx": "834c97355199d25028774684005c87df2eb56fed196006451bb2d7188a5e84b1",
+    "figures/Figure1.png": "b420460436d4ba52571539b95c3eb933945ac1905e841093dd64ccc85204ecbc",
+    "figures/Figure2.png": "ebfac2029ebc93da0953cebd5f47e47cb2be2b15117a4a52436b4835c2d5bf1e",
+    "figures/Figure3.png": "f48613a48d820d22de14aaa31841bd8466039250ad18b0f5f8288ba3ccb0efb6",
+    "figures/Figure4.png": "c3ff9c8ad12da3643ef9464c83def47b3f714b473cce75e2cbb193b10e8d2c7e",
+    "figures/Figure5.png": "591fd2e3aca15552d16b410de3341459d869256f3318e9744675c5bc6ea3189b"
+  },
+  "plot_data_sha256": "60c1a1fd2166e197771a8089955de577efa5d9800876e3f6ba9b66cd89cc6bf1"
+}

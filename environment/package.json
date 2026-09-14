@@ -1,0 +1,6 @@
+{
+  "name": "critical-minerals-reproduction",
+  "private": true,
+  "description": "PDF coordinate extraction dependency for the archived WMD reconstruction",
+  "dependencies": {"pdfjs-dist": "5.6.205"}
+}
